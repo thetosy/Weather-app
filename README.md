@@ -34,7 +34,7 @@ To get a local copy, follow the steps below
 1. Clone the repo 
 
 ```sh
-git clone https://github.com/thetosy/weatherProject2.0.git
+git clone https://tosin28@bitbucket.org/tosin28/weather-app.git
 ```
 
 2. Install the packages
